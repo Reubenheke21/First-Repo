@@ -1,0 +1,12 @@
+html {
+    font-size: 3rem;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+#hobbies {
+    border: 2px solid green;
+}
